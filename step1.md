@@ -92,5 +92,3 @@ git commit -m "add 3 files"
 提交完成后，再运行`git status`, 典型的输出如下：
 >位于分支 master
 >无文件要提交，干净的工作区
-
-dfdhgjhgjhfjgh
